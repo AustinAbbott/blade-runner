@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AustinAbbott/blade-runner/issues"
   },
-  "homepage": "https://github.com/AustinAbbott/blade-runner#readme"
+  "homepage": "https://github.com/AustinAbbott/blade-runner#readme",
+  "dependencies": {
+    "surge": "^0.21.3"
+  }
 }
