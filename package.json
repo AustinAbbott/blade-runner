@@ -1,0 +1,20 @@
+{
+  "name": "blade-runner",
+  "version": "1.0.0",
+  "description": "Recreate Blade Runner poster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AustinAbbott/blade-runner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AustinAbbott/blade-runner/issues"
+  },
+  "homepage": "https://github.com/AustinAbbott/blade-runner#readme"
+}
